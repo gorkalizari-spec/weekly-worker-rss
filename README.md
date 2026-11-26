@@ -12,6 +12,8 @@ Canales independientes para leer los artículos de *Weekly Worker* en inglés. C
 | Society & Culture | [RSS](https://raw.githubusercontent.com/gorkalizari-spec/weekly-worker-rss/main/feeds/society-culture.xml) |
 | CPGB News | [RSS](https://raw.githubusercontent.com/gorkalizari-spec/weekly-worker-rss/main/feeds/cpgb-news.xml) |
 
+GitHub sirve los enlaces anteriores como texto plano. Si tu lector exige el tipo de contenido XML, puedes usar la copia de jsDelivr. Su caché puede tardar más de seis horas en reflejar una actualización. [RSS general con tipo XML](https://cdn.jsdelivr.net/gh/gorkalizari-spec/weekly-worker-rss@main/feeds/general.xml)
+
 ## Cobertura
 
 El periódico publica un RSS oficial. El 26 de noviembre de 2026 contenía diez entradas del número 1611, sin fecha individual, autor ni categoría. El sumario enlazaba once publicaciones, incluida la página de cartas. El servicio consulta ambas fuentes y completa los datos desde las páginas originales. [RSS del periódico](https://weeklyworker.co.uk/worker/rss/) · [Sumario del 1611](https://weeklyworker.co.uk/worker/1611/) · [Archivo por años](https://weeklyworker.co.uk/worker/)
