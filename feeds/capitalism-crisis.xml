@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Weekly Worker — Capitalism &amp; Crisis (unofficial)</title>
+    <link>https://weeklyworker.co.uk/worker/categories/capitalism-crisis/</link>
+    <description>Unofficial RSS feed of articles published by Weekly Worker — Capitalism &amp; Crisis.</description>
+    <language>en</language>
+    <ttl>360</ttl>
+    <item>
+      <title>Funny, if only</title>
+      <link>https://weeklyworker.co.uk/worker/1611/funny-if-only/</link>
+      <guid isPermaLink="true">https://weeklyworker.co.uk/worker/1611/funny-if-only/</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Anthropic’s initial public offering was the biggest in history. But the bumpy ride for tech stocks continues, as does political controversy over the AI industry. Paul Demarty investigates the bubble</description>
+      <dc:creator>Paul Demarty</dc:creator>
+      <category>Capitalism &amp; Crisis</category>
+    </item>
+    <item>
+      <title>If loving you is Huang …</title>
+      <link>https://weeklyworker.co.uk/worker/1610/if-lovin-you-is-huang/</link>
+      <guid isPermaLink="true">https://weeklyworker.co.uk/worker/1610/if-lovin-you-is-huang/</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <description>The underlying dynamic, of dividing the world into great-power blocs pending great-power war, has been drastically reinforced by - of all things - the sexual exploits of a middle-aged, leather-jacketed nerd. Harley Filben looks at Nvidia and its strategic importance</description>
+      <dc:creator>Paul Demarty</dc:creator>
+      <category>Capitalism &amp; Crisis</category>
+    </item>
+  </channel>
+</rss>

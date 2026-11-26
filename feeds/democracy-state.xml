@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Weekly Worker — Democracy &amp; State (unofficial)</title>
+    <link>https://weeklyworker.co.uk/worker/categories/democracy-state/</link>
+    <description>Unofficial RSS feed of articles published by Weekly Worker — Democracy &amp; State.</description>
+    <language>en</language>
+    <ttl>360</ttl>
+    <item>
+      <title>Challenging false assumptions</title>
+      <link>https://weeklyworker.co.uk/worker/1611/challenging-false-assumptions/</link>
+      <guid isPermaLink="true">https://weeklyworker.co.uk/worker/1611/challenging-false-assumptions/</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+      <description>According to the standard Trotskyist narrative, the 1956 events in Hungary were an aborted political revolution. A comforting story that led them to celebrate the restoration of capitalism in eastern Europe and the former Soviet Union over 1989-91. Mike Macnair always had his doubts</description>
+      <dc:creator>Mike Macnair</dc:creator>
+      <category>Democracy &amp; State</category>
+      <category>Stalinism</category>
+    </item>
+    <item>
+      <title>Managing, not replacing capitalism</title>
+      <link>https://weeklyworker.co.uk/worker/1610/managing-not-replacing-capitalism/</link>
+      <guid isPermaLink="true">https://weeklyworker.co.uk/worker/1610/managing-not-replacing-capitalism/</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Price controls, buffer stocks and taxing the rich will not get beyond first base while finance, business and resources remain in private hands. Michael Roberts critiques ‘anti-fascist economics’</description>
+      <dc:creator>Michael Roberts</dc:creator>
+      <category>Democracy &amp; State</category>
+      <category>Fascism</category>
+    </item>
+    <item>
+      <title>Milburn’s recipe for social murder</title>
+      <link>https://weeklyworker.co.uk/worker/1610/milburns-recipe-for-social-murder/</link>
+      <guid isPermaLink="true">https://weeklyworker.co.uk/worker/1610/milburns-recipe-for-social-murder/</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Andy Burnham says no one need lose out when it comes to solving the ‘Neets crisis’. But the reality will be conscription into low-paid, dead-end jobs for the benefit of the least competitive sections of the capitalist class. Ian Spencer investigates</description>
+      <dc:creator>Ian Spencer</dc:creator>
+      <category>Democracy &amp; State</category>
+      <category>Labour</category>
+    </item>
+  </channel>
+</rss>
