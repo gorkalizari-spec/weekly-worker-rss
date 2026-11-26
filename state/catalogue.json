@@ -2,7 +2,7 @@
  "version": 1,
  "issues": {
   "https://weeklyworker.co.uk/worker/1611/": {
-   "checked": 1795723801,
+   "checked": 1795724311,
    "details_checked": 1795723648,
    "complete": true,
    "validators": {},
@@ -159,6 +159,100 @@
     },
     "https://weeklyworker.co.uk/worker/1609/see-us-home/": {
      "signature": "fc9b28c1db276f3414609694",
+     "validators": {}
+    }
+   },
+   "retry": 0
+  },
+  "https://weeklyworker.co.uk/worker/1608/": {
+   "checked": 1795724311,
+   "details_checked": 1795724311,
+   "complete": true,
+   "validators": {},
+   "items": {
+    "https://weeklyworker.co.uk/worker/1608/riot-loot-and-burn/": {
+     "signature": "6ab7849401494fd7e87535eb",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1608/letters/": {
+     "signature": "91cea2e25792c788d4d07ee7",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1608/revolutionary-road-to-democracy/": {
+     "signature": "2c7465a049cff4e91cca0c25",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1608/a-hidden-supreme-leader/": {
+     "signature": "824b26f6ff8bafff3be8857e",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1608/bertolt-brecht-and-holy-joy/": {
+     "signature": "24bc754642063330e2e7cc3d",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1608/the-great-ai-swindle/": {
+     "signature": "e3924cdd1ec10a78301cb6c1",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1608/a-long-old-road/": {
+     "signature": "d889b8c11def7f1ab564a094",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1608/online-communist-forum-sunday-november-8-5pm/": {
+     "signature": "2868a8e8de07c68bf5e8206f",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1608/help-us-get-there/": {
+     "signature": "953a3e423c69e340ec0649f6",
+     "validators": {}
+    }
+   },
+   "retry": 0
+  },
+  "https://weeklyworker.co.uk/worker/1607/": {
+   "checked": 1795724311,
+   "details_checked": 1795724311,
+   "complete": true,
+   "validators": {},
+   "items": {
+    "https://weeklyworker.co.uk/worker/1607/readying-for-the-next-stage/": {
+     "signature": "ffc032ba7614b1b9d41456c5",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1607/letters/": {
+     "signature": "6ecbacc43274128112b80d84",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1607/no-clear-outcome/": {
+     "signature": "904bd33394623e775b3db42b",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1607/pouvoir-dachat-crisis/": {
+     "signature": "b6efd0a8473860f7f1d626ef",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1607/nature-cannot-go-ignored/": {
+     "signature": "813ef8f4ef04410e19e5d61c",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1607/new-age-of-security-chaos/": {
+     "signature": "c457bd5592b9cf3b536b5928",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1607/socialist-organiser-to-resisting-socialism/": {
+     "signature": "62bdab84c62d9bbe8ede9206",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1607/monumental-crash-beckons/": {
+     "signature": "eac21c1f2d5295e5388a6e5e",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1607/online-communist-forum-sunday-november-1-5pm/": {
+     "signature": "fb84360792799f5c9cbab5ba",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1607/already-10-over/": {
+     "signature": "f2a6690554d4aefd2189ea2b",
      "validators": {}
     }
    },
@@ -708,6 +802,317 @@
    "title": "See us home",
    "date": "2026-11-12",
    "lead": "Once again, we’ve fallen well behind, when it comes to the Weekly Worker fighting fund. True, over the last week there were some very useful contributions, but overall, in the last seven days, a mere £234 has come into the kitty - less than a tenth of that £2,750 monthly target.",
+   "lead_source": "excerpt",
+   "authors": [
+    "Robbie Rix"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "fighting-fund": "Fighting fund"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1608/riot-loot-and-burn/": {
+   "url": "https://weeklyworker.co.uk/worker/1608/riot-loot-and-burn/",
+   "title": "Riot, loot and burn",
+   "date": "2026-11-05",
+   "lead": "France’s huge protest movement began with schoolers and now there is the November 5 general strike. Inevitably the disaffected, the backward, the plain criminal see an opportunity. However, says Jack Conrad, the task of Marxists is to raise consciousness, encourage organisation and inculcate discipline",
+   "lead_source": "editorial",
+   "authors": [
+    "Jack Conrad"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "european-left": "European left"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1608/letters/": {
+   "url": "https://weeklyworker.co.uk/worker/1608/letters/",
+   "title": "Letters",
+   "date": "2026-11-05",
+   "lead": "No understand; No tankies; Justified anger; Balfour anniversary; Reparations; History anathema; Ferdori solidarity",
+   "lead_source": "editorial",
+   "authors": [
+    "Alex Green",
+    "Jon Hochschartner",
+    "Nicolas Girard",
+    "Palestine Return Centre",
+    "David Lindsay",
+    "K Sean",
+    "International Solidarity Movement"
+   ],
+   "sections": {},
+   "categories": {
+    "letters": "Letters"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1608/revolutionary-road-to-democracy/": {
+   "url": "https://weeklyworker.co.uk/worker/1608/revolutionary-road-to-democracy/",
+   "title": "Revolutionary road to democracy",
+   "date": "2026-11-05",
+   "lead": "With the Democrats taking control of both houses of Congress and a much-expanded DSA contingent, it might appear that the US constitution has proven itself fit for socialist purposes. That is far from the case, argues Ian F. America needs a new, democratic, constitution",
+   "lead_source": "editorial",
+   "authors": [
+    "Ian F"
+   ],
+   "sections": {
+    "imperialism-war": "Imperialism & War"
+   },
+   "categories": {
+    "republican-democracy": "Republican democracy"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1608/a-hidden-supreme-leader/": {
+   "url": "https://weeklyworker.co.uk/worker/1608/a-hidden-supreme-leader/",
+   "title": "A hidden supreme leader",
+   "date": "2026-11-05",
+   "lead": "Irrationalist belief in divination, spirit contact, haloes and jinn armies grows above. Below, living standards are falling and protests are reviving. Yassamine Mather looks at the two worlds that make up the Islamic Republic",
+   "lead_source": "editorial",
+   "authors": [
+    "Yassamine Mather"
+   ],
+   "sections": {
+    "imperialism-war": "Imperialism & War"
+   },
+   "categories": {
+    "war-and-peace": "War and peace"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1608/bertolt-brecht-and-holy-joy/": {
+   "url": "https://weeklyworker.co.uk/worker/1608/bertolt-brecht-and-holy-joy/",
+   "title": "Bertolt Brecht and Holy Joy",
+   "date": "2026-11-05",
+   "lead": "Culture can bring together theatre, poetry, music, stand-up comedy, anthropology and communist politics. That, explains Tam Dean Burn, is the ambition of the Diderot Gesellschaft Movement",
+   "lead_source": "editorial",
+   "authors": [
+    "Tam Dean Burn"
+   ],
+   "sections": {
+    "society-culture": "Society & Culture"
+   },
+   "categories": {
+    "media-arts-sport": "Media, arts & sport"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1608/the-great-ai-swindle/": {
+   "url": "https://weeklyworker.co.uk/worker/1608/the-great-ai-swindle/",
+   "title": "The great AI swindle",
+   "date": "2026-11-05",
+   "lead": "Caught between faltering returns and lower-priced competition from China’s state-directed tech industry, the east Asian AI bubble is bursting. How will this affect the US? The big test will be the public launch of Anthropic, writes Michael Roberts",
+   "lead_source": "editorial",
+   "authors": [
+    "Michael Roberts"
+   ],
+   "sections": {
+    "society-culture": "Society & Culture"
+   },
+   "categories": {
+    "capitalism-crisis": "Capitalism & Crisis"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1608/a-long-old-road/": {
+   "url": "https://weeklyworker.co.uk/worker/1608/a-long-old-road/",
+   "title": "A long old road",
+   "date": "2026-11-05",
+   "lead": "Nigel with pet dog, Nigel posing as Kitchener, Nigel solving the pothole crisis. Edited by ex-leftist Mick Hume, Reform UK’s new paper has been launched. Paul Demarty reads it, so you don’t have to",
+   "lead_source": "editorial",
+   "authors": [
+    "Paul Demarty"
+   ],
+   "sections": {
+    "society-culture": "Society & Culture"
+   },
+   "categories": {
+    "democracy-state": "Democracy & State"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1608/online-communist-forum-sunday-november-8-5pm/": {
+   "url": "https://weeklyworker.co.uk/worker/1608/online-communist-forum-sunday-november-8-5pm/",
+   "title": "Online Communist Forum, Sunday November 8 5pm",
+   "date": "2026-11-05",
+   "lead": "Slave trade, apologies and apologetics: political report from the CPGB’s Provisional Central Committee and discussion",
+   "lead_source": "excerpt",
+   "authors": [
+    "Provisional Central Committee of the CPGB"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "events": "Events"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1608/help-us-get-there/": {
+   "url": "https://weeklyworker.co.uk/worker/1608/help-us-get-there/",
+   "title": "Help us get there",
+   "date": "2026-11-05",
+   "lead": "Before I report on the start of the November fighting fund, let’s just recap how we did in October. As I said last week, we had already exceeded the £2,750 monthly target, and the last couple of days saw another £58 come our way. Thanks to comrades BK (£25), JD and MD (£10 each)…",
+   "lead_source": "excerpt",
+   "authors": [
+    "Robbie Rix"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "fighting-fund": "Fighting fund"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1607/readying-for-the-next-stage/": {
+   "url": "https://weeklyworker.co.uk/worker/1607/readying-for-the-next-stage/",
+   "title": "Readying for the next stage",
+   "date": "2026-10-29",
+   "lead": "November 5 sees the trade unions calling a general strike. It will be massive. Till then, argues Jean Laurel, the left needs to keep up the momentum of protests and demonstrations. The left also needs to promote the idea of the organised working class maintaining discipline and good order",
+   "lead_source": "editorial",
+   "authors": [
+    "Jean Laurel"
+   ],
+   "sections": {
+    "democracy-state": "Democracy & State"
+   },
+   "categories": {
+    "europe": "Europe"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1607/letters/": {
+   "url": "https://weeklyworker.co.uk/worker/1607/letters/",
+   "title": "Letters",
+   "date": "2026-10-29",
+   "lead": "AI questions; Unfit SUTR; Cargo cult SWP; War fever; DSA tolerance; LFF, then CFF",
+   "lead_source": "editorial",
+   "authors": [
+    "Georg Tabor",
+    "James Martin",
+    "Paul O’Keeffe",
+    "Andrew Northall",
+    "Jon Hochschartner",
+    "Ken Syme"
+   ],
+   "sections": {},
+   "categories": {
+    "letters": "Letters"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1607/no-clear-outcome/": {
+   "url": "https://weeklyworker.co.uk/worker/1607/no-clear-outcome/",
+   "title": "No clear outcome",
+   "date": "2026-10-29",
+   "lead": "There will be weeks of haggling, offers of bribes and ominous threats of all kinds. The Arab-majority parties might well be involved in this grubby business. But when it comes to the oppression of the Palestinians within and without Israel, no fundamental change should be expected, argues Yassamine Mather",
+   "lead_source": "editorial",
+   "authors": [
+    "Yassamine Mather"
+   ],
+   "sections": {
+    "imperialism-war": "Imperialism & War"
+   },
+   "categories": {
+    "middle-east": "Middle East"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1607/pouvoir-dachat-crisis/": {
+   "url": "https://weeklyworker.co.uk/worker/1607/pouvoir-dachat-crisis/",
+   "title": "Pouvoir d’achat crisis",
+   "date": "2026-10-29",
+   "lead": "State education is in an advanced stage of decay. Over the last decade real spending per student has plummeted. Meanwhile the cost of living has soared, along with government borrowing costs. Michael Roberts investigates",
+   "lead_source": "editorial",
+   "authors": [
+    "Michael Roberts"
+   ],
+   "sections": {
+    "democracy-state": "Democracy & State"
+   },
+   "categories": {
+    "capitalism-crisis": "Capitalism & Crisis"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1607/nature-cannot-go-ignored/": {
+   "url": "https://weeklyworker.co.uk/worker/1607/nature-cannot-go-ignored/",
+   "title": "Nature cannot go ignored",
+   "date": "2026-10-29",
+   "lead": "There are still those on the left who say ‘labour creates all wealth’. Seemingly militant, seemingly pro-worker, seemingly anti-capitalist, but profoundly wrong, says Jack Conrad",
+   "lead_source": "editorial",
+   "authors": [
+    "Jack Conrad"
+   ],
+   "sections": {
+    "society-culture": "Society & Culture"
+   },
+   "categories": {
+    "ecology": "Ecology"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1607/new-age-of-security-chaos/": {
+   "url": "https://weeklyworker.co.uk/worker/1607/new-age-of-security-chaos/",
+   "title": "New age of security chaos",
+   "date": "2026-10-29",
+   "lead": "PHP2Shell is the latest of many disastrous security vulnerabilities. Their discovery and exploitation are easier than ever in the age of AI. Buckle up, advises Paul Demarty",
+   "lead_source": "editorial",
+   "authors": [
+    "Paul Demarty"
+   ],
+   "sections": {
+    "society-culture": "Society & Culture"
+   },
+   "categories": {
+    "technology": "Technology"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1607/socialist-organiser-to-resisting-socialism/": {
+   "url": "https://weeklyworker.co.uk/worker/1607/socialist-organiser-to-resisting-socialism/",
+   "title": "Socialist Organiser to Resisting Socialism",
+   "date": "2026-10-29",
+   "lead": "From 1984 till his death, Alan Thornett was involved in almost every broad left front, coalition, alliance and party attempt. All quickly ended in failure, but lessons were never learnt. Mike Macnair concludes his two-part series",
+   "lead_source": "editorial",
+   "authors": [
+    "Mike Macnair"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "socialist-resistance": "Socialist Resistance"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1607/monumental-crash-beckons/": {
+   "url": "https://weeklyworker.co.uk/worker/1607/monumental-crash-beckons/",
+   "title": "Monumental crash beckons",
+   "date": "2026-10-29",
+   "lead": "Capitalist states face huge problems with high interest rates, low economic growth and ballooning government and corporate debt. Ted Reese says the system is in deep trouble and seems to be running out of options",
+   "lead_source": "editorial",
+   "authors": [
+    "Ted Reese"
+   ],
+   "sections": {
+    "capitalism-crisis": "Capitalism & Crisis"
+   },
+   "categories": {
+    "capitalism-crisis": "Capitalism & Crisis"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1607/online-communist-forum-sunday-november-1-5pm/": {
+   "url": "https://weeklyworker.co.uk/worker/1607/online-communist-forum-sunday-november-1-5pm/",
+   "title": "Online Communist Forum, Sunday November 1 5pm",
+   "date": "2026-10-29",
+   "lead": "Why we oppose rioting and looting: political report from the CPGB’s Provisional Central Committee and discussion",
+   "lead_source": "excerpt",
+   "authors": [
+    "Provisional Central Committee of the CPGB"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "events": "Events"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1607/already-10-over/": {
+   "url": "https://weeklyworker.co.uk/worker/1607/already-10-over/",
+   "title": "Already £10 over",
+   "date": "2026-10-29",
+   "lead": "With still three days to go in October, I have some good news: the Weekly Worker has already reached our monthly £2,750 fighting fund target! Thanks to a very useful £582 that came our way over the last week, the running total currently stands at £2,760. Well done, everyone!",
    "lead_source": "excerpt",
    "authors": [
     "Robbie Rix"
@@ -4152,6 +4557,9 @@
    "us-left": {
     "party-programme": "Party & Programme"
    },
+   "socialist-resistance": {
+    "party-programme": "Party & Programme"
+   },
    "reports": {
     "cpgb-news": "CPGB News"
    },
@@ -4261,6 +4669,16 @@
    },
    "us-left": {
     "name": "US left",
+    "parents": {
+     "the-left": "The left"
+    },
+    "children": {},
+    "validators": {},
+    "checked": "2026-11-26",
+    "in_menu": false
+   },
+   "socialist-resistance": {
+    "name": "Socialist Resistance",
     "parents": {
      "the-left": "The left"
     },
