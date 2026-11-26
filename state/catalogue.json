@@ -2,7 +2,7 @@
  "version": 1,
  "issues": {
   "https://weeklyworker.co.uk/worker/1611/": {
-   "checked": 1795724311,
+   "checked": 1795724406,
    "details_checked": 1795723648,
    "complete": true,
    "validators": {},
@@ -253,6 +253,112 @@
     },
     "https://weeklyworker.co.uk/worker/1607/already-10-over/": {
      "signature": "f2a6690554d4aefd2189ea2b",
+     "validators": {}
+    }
+   },
+   "retry": 0
+  },
+  "https://weeklyworker.co.uk/worker/1606/": {
+   "checked": 1795724406,
+   "details_checked": 1795724406,
+   "complete": true,
+   "validators": {},
+   "items": {
+    "https://weeklyworker.co.uk/worker/1606/banking-on-moonshots/": {
+     "signature": "9b9150eadd7fbf6f2aa6ce3d",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1606/letters/": {
+     "signature": "e576779ccc6724fe0c81a212",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1606/who-we-support-in-russia/": {
+     "signature": "bd47af9c655d87ed64b7fae4",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1606/programme-for-a-kingdom/": {
+     "signature": "cab3360594421c511eb160ce",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1606/from-militancy-to-the-swamp/": {
+     "signature": "f96600ce9bbc236c28ae7c97",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1606/rewarded-for-total-failure/": {
+     "signature": "3b0313d58057ba6e3692a4e9",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1606/seven-you-need-to-watch/": {
+     "signature": "845d26c300e3156e639b69af",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1606/how-to-steal-an-election/": {
+     "signature": "3e08f88113cb4562d9723df3",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1606/online-communist-forum-sunday-october-22-5pm/": {
+     "signature": "622b228ce30f0247300e0d07",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1606/make-up-lost-ground/": {
+     "signature": "9bb44d45b11fdfb2b585f957",
+     "validators": {}
+    }
+   },
+   "retry": 0
+  },
+  "https://weeklyworker.co.uk/worker/1605/": {
+   "checked": 1795724406,
+   "details_checked": 1795724406,
+   "complete": true,
+   "validators": {},
+   "items": {
+    "https://weeklyworker.co.uk/worker/1605/three-years-of-genocide/": {
+     "signature": "3f206d97dca3af02a5b87609",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1605/letters/": {
+     "signature": "420a51c5f96c82eadfa71515",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1605/why-israel-is-a-racist-state/": {
+     "signature": "a637020e93d28931ed9c04e9",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1605/modern-wars-ancient-myths/": {
+     "signature": "98a9c04ac53a13b57e9f80df",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1605/soft-left-strengthens-vox/": {
+     "signature": "943564acc7ab31be8cc2d857",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1605/youth-take-the-lead/": {
+     "signature": "25582d742d85bc34d3a0e773",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1605/prisoners-in-soft-captivity/": {
+     "signature": "394d2b15d9e53d534e1d6c91",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1605/achieving-the-good-life/": {
+     "signature": "226e0b388e063f8bc1c7ce0d",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1605/the-last-man-of-ideas/": {
+     "signature": "a3bf47c2a2865f88ead7d308",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1605/postcard-from-the-future/": {
+     "signature": "d60ae9a6d18963e93471833f",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1605/online-communist-forum-sunday-october-18-5pm/": {
+     "signature": "3e4984cbaad994801dc0f848",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1605/do-what-you-can/": {
+     "signature": "501d0261e9379b8e452af8fe",
      "validators": {}
     }
    },
@@ -1113,6 +1219,363 @@
    "title": "Already £10 over",
    "date": "2026-10-29",
    "lead": "With still three days to go in October, I have some good news: the Weekly Worker has already reached our monthly £2,750 fighting fund target! Thanks to a very useful £582 that came our way over the last week, the running total currently stands at £2,760. Well done, everyone!",
+   "lead_source": "excerpt",
+   "authors": [
+    "Robbie Rix"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "fighting-fund": "Fighting fund"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1606/banking-on-moonshots/": {
+   "url": "https://weeklyworker.co.uk/worker/1606/banking-on-moonshots/",
+   "title": "Banking on moonshots",
+   "date": "2026-10-22",
+   "lead": "Much to the alarm of the AI industry and interested governments, data centres face a growing tide of local opposition. Is this a reactionary attempt to roll back progress or a defensible popular revolt? Paul Demarty investigates",
+   "lead_source": "editorial",
+   "authors": [
+    "Paul Demarty"
+   ],
+   "sections": {
+    "society-culture": "Society & Culture"
+   },
+   "categories": {
+    "technology": "Technology"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1606/letters/": {
+   "url": "https://weeklyworker.co.uk/worker/1606/letters/",
+   "title": "Letters",
+   "date": "2026-10-22",
+   "lead": "RSP censorsists; SNP rightists; Two-way Greens; DSA tankies",
+   "lead_source": "editorial",
+   "authors": [
+    "Jules Maximus",
+    "Tam Dean Burn",
+    "David Lindsay",
+    "Jon Hochschartner"
+   ],
+   "sections": {},
+   "categories": {
+    "letters": "Letters"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1606/who-we-support-in-russia/": {
+   "url": "https://weeklyworker.co.uk/worker/1606/who-we-support-in-russia/",
+   "title": "Who we support in Russia",
+   "date": "2026-10-22",
+   "lead": "While it is correct to oppose Nato’s proxy war in Ukraine, we cannot support Russia or ignore the reactionary nature of Putin’s dictatorial regime. Instead, argues Yassamine Mather, we should look to the anti-war left",
+   "lead_source": "editorial",
+   "authors": [
+    "Yassamine Mather"
+   ],
+   "sections": {
+    "imperialism-war": "Imperialism & War"
+   },
+   "categories": {
+    "europe": "Europe"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1606/programme-for-a-kingdom/": {
+   "url": "https://weeklyworker.co.uk/worker/1606/programme-for-a-kingdom/",
+   "title": "Programme for a kingdom",
+   "date": "2026-10-22",
+   "lead": "Among those expelled under the anti-communist proscribed list is Chris Williamson, the former Labour MP and former deputy leader of the Workers Party of Britain. Steve Freeman calls for his reinstatement and an urgent change of course",
+   "lead_source": "editorial",
+   "authors": [
+    "Steve Freeman"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "republican-democracy": "Republican democracy"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1606/from-militancy-to-the-swamp/": {
+   "url": "https://weeklyworker.co.uk/worker/1606/from-militancy-to-the-swamp/",
+   "title": "From militancy to the swamp",
+   "date": "2026-10-22",
+   "lead": "Alan Thornett, June 15 1937-October 9 2026, was one of those genuine rank-and-file leaders, a cadre steeled in the class struggles of Cowley car assembly plant. Having broken with the CPGB, he threw his lot in with Gerry Healy’s increasingly crazy outfit. After that, one failed merger followed another till he found the ‘lovely waters’ of Mandelism. Mike Macnair begins a two-part article",
+   "lead_source": "editorial",
+   "authors": [
+    "Mike Macnair"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "socialist-resistance": "Socialist Resistance"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1606/rewarded-for-total-failure/": {
+   "url": "https://weeklyworker.co.uk/worker/1606/rewarded-for-total-failure/",
+   "title": "Rewarded for total failure",
+   "date": "2026-10-22",
+   "lead": "New Keynesian predictions about future economic activity have been way out of line. They have consistently got one thing wrong after another, says Michael Roberts. It is, therefore, fitting that Robert Hall and Michael Woodford have been handed this year’s Nobel prize in economics",
+   "lead_source": "editorial",
+   "authors": [
+    "Michael Roberts"
+   ],
+   "sections": {
+    "capitalism-crisis": "Capitalism & Crisis"
+   },
+   "categories": {
+    "keynesianism": "Keynesianism"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1606/seven-you-need-to-watch/": {
+   "url": "https://weeklyworker.co.uk/worker/1606/seven-you-need-to-watch/",
+   "title": "Seven you need to watch",
+   "date": "2026-10-22",
+   "lead": "Over 200 feature films and shorts were showcased over October 7-18 at the 70th annual London Film Festival. As with every year, there were some duds, a few shocks, but many treats. Jim Moody picks his particular highlights",
+   "lead_source": "editorial",
+   "authors": [
+    "Jim Moody"
+   ],
+   "sections": {
+    "society-culture": "Society & Culture"
+   },
+   "categories": {
+    "media-arts-sport": "Media, arts & sport"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1606/how-to-steal-an-election/": {
+   "url": "https://weeklyworker.co.uk/worker/1606/how-to-steal-an-election/",
+   "title": "How to steal an election",
+   "date": "2026-10-22",
+   "lead": "Donald Trump’s Department of Homeland Security is conspiring to throw out millions of mail-in ballots under the guise of ‘election security’. Socialists must defend the right to vote, argues Nick D of the Marxist Unity Group. Socialists must also oppose the undemocratic system which enables the presidential dictatorship",
+   "lead_source": "editorial",
+   "authors": [
+    "Nick D"
+   ],
+   "sections": {
+    "imperialism-war": "Imperialism & War"
+   },
+   "categories": {
+    "republican-democracy": "Republican democracy"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1606/online-communist-forum-sunday-october-22-5pm/": {
+   "url": "https://weeklyworker.co.uk/worker/1606/online-communist-forum-sunday-october-22-5pm/",
+   "title": "Online Communist Forum, Sunday October 25 5pm",
+   "date": "2026-10-22",
+   "lead": "Chris Knight and Jerome Lewis introduce their groundbreaking book:",
+   "lead_source": "excerpt",
+   "authors": [
+    "Chris Knight",
+    "Jerome Lewis"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "events": "Events"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1606/make-up-lost-ground/": {
+   "url": "https://weeklyworker.co.uk/worker/1606/make-up-lost-ground/",
+   "title": "Make up lost ground",
+   "date": "2026-10-22",
+   "lead": "What an excellent week for the Weekly Worker fighting fund. Incredibly, thanks to the support of our readers, we raised more in the last seven days than over the first two weeks!",
+   "lead_source": "excerpt",
+   "authors": [
+    "Robbie Rix"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "fighting-fund": "Fighting fund"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1605/three-years-of-genocide/": {
+   "url": "https://weeklyworker.co.uk/worker/1605/three-years-of-genocide/",
+   "title": "Three years of genocide",
+   "date": "2026-10-15",
+   "lead": "Millions marched worldwide, in London over 200,000. No one is fooled by Ed Miliband’s weasel words, not least because of the continued arms trade with Israel and the ban on Palestine Action, says Ian Spencer",
+   "lead_source": "editorial",
+   "authors": [
+    "Ian Spencer"
+   ],
+   "sections": {
+    "imperialism-war": "Imperialism & War"
+   },
+   "categories": {
+    "middle-east": "Middle East"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1605/letters/": {
+   "url": "https://weeklyworker.co.uk/worker/1605/letters/",
+   "title": "Letters",
+   "date": "2026-10-15",
+   "lead": "Silly reply; Stand by Elise; DSA wrecker?; Nord Stream 2; Bolshevik fantasy; School students",
+   "lead_source": "editorial",
+   "authors": [
+    "Elise van der Doelen",
+    "Willem Gloudemans",
+    "Jon Hochschartner",
+    "Sam Moews",
+    "K Sean",
+    "International Communist Current"
+   ],
+   "sections": {},
+   "categories": {
+    "letters": "Letters"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1605/why-israel-is-a-racist-state/": {
+   "url": "https://weeklyworker.co.uk/worker/1605/why-israel-is-a-racist-state/",
+   "title": "Why Israel is a racist state",
+   "date": "2026-10-15",
+   "lead": "We reprint this article by Moshé Machover in light of the media-amplified campaign against Green Party activists for daring to categorise Zionism as a form of racism. It most certainly is. As with any colonial-settler project, Zionism involves systemic discrimination against the indigenous population. First published in September 2018 by Labour Party Marxists",
+   "lead_source": "editorial",
+   "authors": [
+    "Moshe Machover"
+   ],
+   "sections": {
+    "imperialism-war": "Imperialism & War"
+   },
+   "categories": {
+    "racism": "Racism"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1605/modern-wars-ancient-myths/": {
+   "url": "https://weeklyworker.co.uk/worker/1605/modern-wars-ancient-myths/",
+   "title": "Modern wars, ancient myths",
+   "date": "2026-10-15",
+   "lead": "As the flame of war spreads across the region, Yassamine Mather looks at Saudi Arabia’s vulnerability, the misinformation surrounding the Houthis and Marco Rubio’s dangerous clash of civilisations nonsense",
+   "lead_source": "editorial",
+   "authors": [
+    "Yassamine Mather"
+   ],
+   "sections": {
+    "imperialism-war": "Imperialism & War"
+   },
+   "categories": {
+    "middle-east": "Middle East"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1605/soft-left-strengthens-vox/": {
+   "url": "https://weeklyworker.co.uk/worker/1605/soft-left-strengthens-vox/",
+   "title": "Soft left strengthens Vox",
+   "date": "2026-10-15",
+   "lead": "Housing, migration and the prospect of the hard right entering government for the first time since 1975 are the dominant issues, says Paul Davies. But what about the democratic republic, Nato and working class rule?",
+   "lead_source": "editorial",
+   "authors": [
+    "Paul Davies"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "europe": "Europe"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1605/youth-take-the-lead/": {
+   "url": "https://weeklyworker.co.uk/worker/1605/youth-take-the-lead/",
+   "title": "Youth take the lead",
+   "date": "2026-10-15",
+   "lead": "High schoolers have blockaded their schools and taken to the streets in unprecedented numbers. They have been joined by university students, teachers and parents. And on November 5 there is the call for a one-day general strike and mass demonstrations. Jean Laurel reports",
+   "lead_source": "editorial",
+   "authors": [
+    "Jean Laurel"
+   ],
+   "sections": {
+    "democracy-state": "Democracy & State"
+   },
+   "categories": {
+    "europe": "Europe"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1605/prisoners-in-soft-captivity/": {
+   "url": "https://weeklyworker.co.uk/worker/1605/prisoners-in-soft-captivity/",
+   "title": "Prisoners in soft captivity",
+   "date": "2026-10-15",
+   "lead": "Does British promotion of European rearmament against Russia amount to a viable alternative to US domination? Mike Macnair does not think so. Europe is incapable of independent action",
+   "lead_source": "editorial",
+   "authors": [
+    "Mike Macnair"
+   ],
+   "sections": {
+    "democracy-state": "Democracy & State"
+   },
+   "categories": {
+    "united-states": "United States"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1605/achieving-the-good-life/": {
+   "url": "https://weeklyworker.co.uk/worker/1605/achieving-the-good-life/",
+   "title": "Achieving the good life",
+   "date": "2026-10-15",
+   "lead": "Did Keynes really have the solution to economic slumps, stagnation and mass unemployment? The majority of liberal left economists, trade union leaders and politicians think so. But, says Michael Roberts, it should not be back to Keynes, rather forward to Marx",
+   "lead_source": "editorial",
+   "authors": [
+    "Michael Roberts"
+   ],
+   "sections": {
+    "capitalism-crisis": "Capitalism & Crisis"
+   },
+   "categories": {
+    "keynesianism": "Keynesianism"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1605/the-last-man-of-ideas/": {
+   "url": "https://weeklyworker.co.uk/worker/1605/the-last-man-of-ideas/",
+   "title": "The last man of ideas",
+   "date": "2026-10-15",
+   "lead": "Paul Demarty reviews Francis Fukuyama In the realm of the last man London 2026, pp304, £20",
+   "lead_source": "editorial",
+   "authors": [
+    "Paul Demarty"
+   ],
+   "sections": {
+    "society-culture": "Society & Culture"
+   },
+   "categories": {
+    "united-states": "United States"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1605/postcard-from-the-future/": {
+   "url": "https://weeklyworker.co.uk/worker/1605/postcard-from-the-future/",
+   "title": "Postcard from the future",
+   "date": "2026-10-15",
+   "lead": "A Godzilla El Niño could persist until at least early next year, bringing record temperatures along with more flooding and drought. But there is also a possibility, paradoxically, that it could trigger a deep freeze in Europe, writes Eddie Ford",
+   "lead_source": "editorial",
+   "authors": [
+    "Eddie Ford"
+   ],
+   "sections": {
+    "society-culture": "Society & Culture"
+   },
+   "categories": {
+    "ecology": "Ecology"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1605/online-communist-forum-sunday-october-18-5pm/": {
+   "url": "https://weeklyworker.co.uk/worker/1605/online-communist-forum-sunday-october-18-5pm/",
+   "title": "Online Communist Forum, Sunday October 18 5pm",
+   "date": "2026-10-15",
+   "lead": "What is going on with Ukraine? Political report from the CPGB’s Provisional Central Committee",
+   "lead_source": "excerpt",
+   "authors": [
+    "Provisional Central Committee of the CPGB"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "events": "Events"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1605/do-what-you-can/": {
+   "url": "https://weeklyworker.co.uk/worker/1605/do-what-you-can/",
+   "title": "Do what you can",
+   "date": "2026-10-15",
+   "lead": "Last Saturday’s mass pro-Palestine demonstration in London was excellent in two senses: firstly, of course, for the huge numbers - including thousands of self-identifying Jews - expressing their opposition to the ongoing Israeli genocide; but also for the positive response from…",
    "lead_source": "excerpt",
    "authors": [
     "Robbie Rix"

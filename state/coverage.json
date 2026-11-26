@@ -1,5 +1,5 @@
 {
- "articles": 53,
+ "articles": 75,
  "sections": {
   "party-programme": "Party & Programme",
   "democracy-state": "Democracy & State",
@@ -9,11 +9,9 @@
   "cpgb-news": "CPGB News"
  },
  "discovered_issues": 1528,
- "complete_issues": 5,
+ "complete_issues": 7,
  "annual_indexes_checked": 33,
  "pending_issues": [
-  "https://weeklyworker.co.uk/worker/1606/",
-  "https://weeklyworker.co.uk/worker/1605/",
   "https://weeklyworker.co.uk/worker/1604/",
   "https://weeklyworker.co.uk/worker/1603/",
   "https://weeklyworker.co.uk/worker/1602/",
@@ -1536,7 +1534,5 @@
   "https://weeklyworker.co.uk/worker/76/",
   "https://weeklyworker.co.uk/worker/75/"
  ],
- "errors_this_run": [
-  "https://weeklyworker.co.uk/worker/rss/: Unexpected article link in official RSS: http://weeklyworker.co.uk/worker/1611/just-days-to-go/"
- ]
+ "errors_this_run": []
 }
