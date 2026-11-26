@@ -2,6 +2,10 @@
 
 Canales independientes para leer los artículos de *Weekly Worker* en inglés. Copia la dirección de un canal en la opción **Añadir fuente** de tu lector. Los enlaces de cada noticia abren la publicación original.
 
+**Enlace corto al RSS general**
+
+https://is.gd/WeeklyWorkerRSS
+
 | Canal | Suscripción |
 | --- | --- |
 | **Todas las publicaciones** | [RSS general](https://raw.githubusercontent.com/gorkalizari-spec/weekly-worker-rss/main/feeds/general.xml) |
