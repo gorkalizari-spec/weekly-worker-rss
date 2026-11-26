@@ -16,7 +16,7 @@ Canales independientes para leer los artículos de *Weekly Worker* en inglés. C
 
 El periódico publica un RSS oficial. El 26 de noviembre de 2026 contenía diez entradas del número 1611, sin fecha individual, autor ni categoría. El sumario enlazaba once publicaciones, incluida la página de cartas. El servicio consulta ambas fuentes y completa los datos desde las páginas originales. [RSS del periódico](https://weeklyworker.co.uk/worker/rss/) · [Sumario del 1611](https://weeklyworker.co.uk/worker/1611/) · [Archivo por años](https://weeklyworker.co.uk/worker/)
 
-El general reúne todos los artículos HTML recuperados, incluidas cartas, anuncios y publicaciones sin sección. Cada página de cartas tiene una dirección por número y conserva las firmas identificables. Una publicación puede pertenecer a varios canales. Cuando falta la entradilla, se toma un extracto de hasta 280 caracteres del primer párrafo disponible. Los nombres de autor proceden de la ficha o de las firmas de las cartas. Una autoría ausente queda vacía. La fecha corresponde al día editorial, representado a medianoche UTC para su uso en RSS. El canal contiene metadatos y remite al texto completo del periódico. [Equipo web y condiciones de reutilización](https://www.weeklyworker.co.uk/worker/1011/from-the-web-team/)
+El general reúne todos los artículos HTML recuperados, incluidas cartas, anuncios y publicaciones sin sección. Cada página de cartas tiene una dirección por número y conserva las firmas identificables. Una publicación puede pertenecer a varios canales. Cuando falta la entradilla, se toma un extracto de hasta 280 caracteres del primer párrafo disponible, marcado como «Excerpt» en el lector. Los nombres de autor proceden de la ficha o de las firmas de las cartas. Una autoría ausente queda vacía. La fecha corresponde al día editorial, representado a medianoche UTC para su uso en RSS. El canal contiene metadatos y remite al texto completo del periódico. [Equipo web y condiciones de reutilización](https://www.weeklyworker.co.uk/worker/1011/from-the-web-team/)
 
 Cada seis horas se comprueban las novedades; además, cada ejecución procesa hasta dos números pendientes del archivo. El canal crece durante la recuperación histórica. El recuento de artículos, los números completados, los pendientes descubiertos y los índices anuales ya consultados figuran en el informe. Un número que solo ofrece PDF cuenta como revisado y aporta cero fichas HTML. [Cobertura actual](state/coverage.json)
 
@@ -30,7 +30,7 @@ Si una página enlazada da 404 o cambia de formato, queda pendiente para un nuev
 
 ### Ejecución local opcional
 
-Se necesita Python 3.12. Desde la carpeta del proyecto:
+Se necesita Python 3.12. Ejecuta estos comandos desde la carpeta del proyecto.
 
 ```sh
 python -m venv .venv

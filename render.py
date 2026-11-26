@@ -42,7 +42,10 @@ def _document(articles, section_name, link):
         _text(item, "pubDate", format_datetime(published, usegmt=True))
         if article["lead"]:
             # RSS descriptions contain encoded HTML, including when displaying plain text.
-            _text(item, "description", escape(article["lead"], quote=False))
+            lead = escape(article["lead"], quote=False)
+            if article.get("lead_source") == "excerpt":
+                lead = "Excerpt: " + lead
+            _text(item, "description", lead)
         for author in dict.fromkeys(article["authors"]):
             _text(item, f"{{{DC}}}creator", author)
         names = set(article["sections"].values()) | set(article["categories"].values())
