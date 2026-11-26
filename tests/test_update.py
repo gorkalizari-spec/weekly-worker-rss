@@ -103,6 +103,13 @@ class UpdateTests(unittest.TestCase):
         self.assertNotIn(LETTERS, self.journal.calls)
         self.assertEqual((self.directory / "feeds" / "general.xml").read_bytes(), before)
 
+    def test_http_rss_links_and_https_index_links_identify_one_article(self):
+        self.journal.data[RSS] = self.journal.data[RSS].replace("https://", "http://")
+        self.assertFalse(self.update())
+        self.assertCountEqual(self.urls(), [NEWS, LETTERS])
+        self.assertEqual(self.journal.calls.count(NEWS), 1)
+        self.assertTrue(all(url.startswith("https://") for url in self.journal.calls))
+
     def test_backfill_resumes_from_an_annual_index_with_no_duplicate_urls(self):
         self.assertFalse(self.update())
         self.assertNotIn(OLD_NEWS, self.journal.calls)

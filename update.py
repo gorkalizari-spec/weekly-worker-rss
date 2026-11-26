@@ -23,9 +23,10 @@ def official_items(xml):
     entries = {}
     for item in root.findall("./channel/item"):
         link = (item.findtext("link") or "").strip()
-        if not re.fullmatch(re.escape(ARCHIVE) + r"[^/?#]+/[^/?#]+/", link):
+        match = re.fullmatch(r"https?://(?:www\.)?weeklyworker\.co\.uk(/worker/[^/?#]+/[^/?#]+/)", link)
+        if not match:
             raise ValueError(f"Unexpected article link in official RSS: {link}")
-        entries[link] = {"title": item.findtext("title") or "", "lead": ""}
+        entries[ORIGIN + match[1]] = {"title": item.findtext("title") or "", "lead": ""}
     if not entries:
         raise ValueError("Official RSS contains no entries")
     return entries
