@@ -2,7 +2,7 @@
  "version": 1,
  "issues": {
   "https://weeklyworker.co.uk/worker/1611/": {
-   "checked": 1795724406,
+   "checked": 1795769171,
    "details_checked": 1795723648,
    "complete": true,
    "validators": {},
@@ -359,6 +359,108 @@
     },
     "https://weeklyworker.co.uk/worker/1605/do-what-you-can/": {
      "signature": "501d0261e9379b8e452af8fe",
+     "validators": {}
+    }
+   },
+   "retry": 0
+  },
+  "https://weeklyworker.co.uk/worker/1604/": {
+   "checked": 1795769171,
+   "details_checked": 1795769171,
+   "complete": true,
+   "validators": {},
+   "items": {
+    "https://weeklyworker.co.uk/worker/1604/three-years-of-genocidal-war/": {
+     "signature": "b42745f7666166111f3c645c",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1604/letters/": {
+     "signature": "c06725605ceccd14b72e6396",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1604/straight-from-the-playbook/": {
+     "signature": "61ab6b1044165ebf855e83e0",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1604/burnham-on-the-front-foot/": {
+     "signature": "2dec0ce40d5745d31a60505d",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1604/cruel-and-unusual-treatment/": {
+     "signature": "6c06e58d32f67916f08f489f",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1604/two-out-of-three/": {
+     "signature": "ba4aeca25c4219f9c0d5517a",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1604/realities-of-siege-warfare/": {
+     "signature": "757665b1008c5b93321edeb0",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1604/ussr-a-marxist-post-mortem-internal-contradictions/": {
+     "signature": "fef86edbeac1dc5552725e82",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1604/online-communist-forum-sunday-october-11-5pm/": {
+     "signature": "3400dea527eefcbabbd8e857",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1604/we-can-do-it/": {
+     "signature": "565debbc15361548084025a4",
+     "validators": {}
+    }
+   },
+   "retry": 0
+  },
+  "https://weeklyworker.co.uk/worker/1603/": {
+   "checked": 1795769171,
+   "details_checked": 1795769171,
+   "complete": true,
+   "validators": {},
+   "items": {
+    "https://weeklyworker.co.uk/worker/1603/notes-on-space/": {
+     "signature": "727a3839bf1310eaf694e592",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1603/letters/": {
+     "signature": "b5fc2e0e376e17b7bacc2291",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1603/vote-for-palestine/": {
+     "signature": "c706be2627f1fbc40f0a6b2f",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1603/publish-the-report-in-full/": {
+     "signature": "aa4a9c53e6059335b3ca6f91",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1603/threats-walkouts-and-secret-talks/": {
+     "signature": "3792f4cbdf87d960f75fc0ae",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1603/cockroaches-dent-modis-veneer/": {
+     "signature": "7bc96cac7bbd9ee3b97a0721",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1603/in-their-thousands-insects/": {
+     "signature": "a795a6c32e12240897b9a1ce",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1603/hacking-in-a-fragile-world/": {
+     "signature": "759d8c9b5c73738d05ec2052",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1603/guilty-on-all-charges/": {
+     "signature": "a7ab9ca0ed66891631dfe4f6",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1603/online-communist-forum-sunday-october-4-5pm/": {
+     "signature": "f8aeaccde56d30a76689f964",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1603/make-up-shortfall/": {
+     "signature": "cb8459525f529acb2ad7a7c0",
      "validators": {}
     }
    },
@@ -1576,6 +1678,353 @@
    "title": "Do what you can",
    "date": "2026-10-15",
    "lead": "Last Saturday’s mass pro-Palestine demonstration in London was excellent in two senses: firstly, of course, for the huge numbers - including thousands of self-identifying Jews - expressing their opposition to the ongoing Israeli genocide; but also for the positive response from…",
+   "lead_source": "excerpt",
+   "authors": [
+    "Robbie Rix"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "fighting-fund": "Fighting fund"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1604/three-years-of-genocidal-war/": {
+   "url": "https://weeklyworker.co.uk/worker/1604/three-years-of-genocidal-war/",
+   "title": "Three years of genocidal war",
+   "date": "2026-10-08",
+   "lead": "Zack Polanski’s Green Party is being demonised as racist because it opposes Zionist racism and dares call for a single-state solution. But is the single state, as traditionally demanded by Palestinian militants and the revolutionary left, actually achievable? What about the two-state solution? Jack Conrad presents the communist view",
+   "lead_source": "editorial",
+   "authors": [
+    "Jack Conrad"
+   ],
+   "sections": {
+    "imperialism-war": "Imperialism & War"
+   },
+   "categories": {
+    "war-and-peace": "War and peace"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1604/letters/": {
+   "url": "https://weeklyworker.co.uk/worker/1604/letters/",
+   "title": "Letters",
+   "date": "2026-10-08",
+   "lead": "DSA right wing; Labour camps; Fake partijïsme; Real politics; Deep critique; Defend juries",
+   "lead_source": "editorial",
+   "authors": [
+    "Jon Hochschartner",
+    "Elijah Traven",
+    "Filip Spijkerman",
+    "Jim Nelson",
+    "Tam Dean Burn",
+    "David Lindsay"
+   ],
+   "sections": {},
+   "categories": {
+    "letters": "Letters"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1604/straight-from-the-playbook/": {
+   "url": "https://weeklyworker.co.uk/worker/1604/straight-from-the-playbook/",
+   "title": "Straight from the playbook",
+   "date": "2026-10-08",
+   "lead": "Media-amplified outrage over the A105 ‘Zionism is racism’ motion has nothing to do with anti-Semitism, argues Carla Roberts. It is about imposing imperialist interests on a potential junior coalition partner",
+   "lead_source": "editorial",
+   "authors": [
+    "Carla Roberts"
+   ],
+   "sections": {
+    "imperialism-war": "Imperialism & War"
+   },
+   "categories": {
+    "racism": "Racism"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1604/burnham-on-the-front-foot/": {
+   "url": "https://weeklyworker.co.uk/worker/1604/burnham-on-the-front-foot/",
+   "title": "Burnham on the front foot",
+   "date": "2026-10-08",
+   "lead": "With talk of a National Care Service, public ownership and electoral reform, Andy Burnham made the most of his first conference speech as prime minister. But he is not master of his own fate, suggests Paul Demarty",
+   "lead_source": "editorial",
+   "authors": [
+    "Paul Demarty"
+   ],
+   "sections": {
+    "democracy-state": "Democracy & State"
+   },
+   "categories": {
+    "labour": "Labour"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1604/cruel-and-unusual-treatment/": {
+   "url": "https://weeklyworker.co.uk/worker/1604/cruel-and-unusual-treatment/",
+   "title": "Cruel and unusual treatment",
+   "date": "2026-10-08",
+   "lead": "Her botched execution is a gruesome reminder of the utterly barbaric nature of the death penalty, says Eddie Ford. But what about dealing with counterrevolutionaries during a bitterly fought civil war?",
+   "lead_source": "editorial",
+   "authors": [
+    "Eddie Ford"
+   ],
+   "sections": {
+    "democracy-state": "Democracy & State"
+   },
+   "categories": {
+    "democracy-state": "Democracy & State"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1604/two-out-of-three/": {
+   "url": "https://weeklyworker.co.uk/worker/1604/two-out-of-three/",
+   "title": "Two out of three",
+   "date": "2026-10-08",
+   "lead": "Should we strive to re-establish Comintern? If not, what sort of international organisation do we need and what can we achieve in the altogether famished here and now? Mike Macnair outlines our broad approach. This is an edited version of his Online Communist Forum talk",
+   "lead_source": "editorial",
+   "authors": [
+    "Mike Macnair"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "left-unity": "Marxist unity"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1604/realities-of-siege-warfare/": {
+   "url": "https://weeklyworker.co.uk/worker/1604/realities-of-siege-warfare/",
+   "title": "Realities of siege warfare",
+   "date": "2026-10-08",
+   "lead": "Internationalists oppose US imperialism and simultaneously maintain complete political independence from the Islamic Republic. The struggles of the working class and the poor are central, declares Yassamine Mather",
+   "lead_source": "editorial",
+   "authors": [
+    "Yassamine Mather"
+   ],
+   "sections": {
+    "imperialism-war": "Imperialism & War"
+   },
+   "categories": {
+    "war-and-peace": "War and peace"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1604/ussr-a-marxist-post-mortem-internal-contradictions/": {
+   "url": "https://weeklyworker.co.uk/worker/1604/ussr-a-marxist-post-mortem-internal-contradictions/",
+   "title": "USSR - A Marxist post-mortem: Internal contradictions",
+   "date": "2026-10-08",
+   "lead": "Jack Conrad uses the logic of Marxism to lay bare the Soviet Union’s inner laws",
+   "lead_source": "excerpt",
+   "authors": [
+    "Jack Conrad"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "cpgb-news": "CPGB News"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1604/online-communist-forum-sunday-october-11-5pm/": {
+   "url": "https://weeklyworker.co.uk/worker/1604/online-communist-forum-sunday-october-11-5pm/",
+   "title": "Online Communist Forum, Sunday October 11 5pm",
+   "date": "2026-10-08",
+   "lead": "Holborn and St Pancras and what it means: political report from the CPGB’s Provisional Central Committee",
+   "lead_source": "excerpt",
+   "authors": [
+    "Provisional Central Committee of the CPGB"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "events": "Events"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1604/we-can-do-it/": {
+   "url": "https://weeklyworker.co.uk/worker/1604/we-can-do-it/",
+   "title": "We can do it",
+   "date": "2026-10-08",
+   "lead": "After last month’s failure to reach that much-needed £2,750 Weekly Worker fighting fund target, can we make up for lost ground in October?",
+   "lead_source": "excerpt",
+   "authors": [
+    "Robbie Rix"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "fighting-fund": "Fighting fund"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1603/notes-on-space/": {
+   "url": "https://weeklyworker.co.uk/worker/1603/notes-on-space/",
+   "title": "Notes on space",
+   "date": "2026-10-01",
+   "lead": "US airforce secretary Troy Meink has confirmed what we long knew: America has deployed ‘space control weapons’ in low Earth orbit. While details remain unclear, the dangers are all too evident. Jack Conrad argues that space display, space science and space war have a symbiotic relationship",
+   "lead_source": "editorial",
+   "authors": [
+    "Jack Conrad"
+   ],
+   "sections": {
+    "society-culture": "Society & Culture"
+   },
+   "categories": {
+    "war-and-peace": "War and peace",
+    "united-states": "United States"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1603/letters/": {
+   "url": "https://weeklyworker.co.uk/worker/1603/letters/",
+   "title": "Letters",
+   "date": "2026-10-01",
+   "lead": "Vote … er; Vote Galloway; DSA democracy; Cynical sideliner; Lenin thinking; Straightjacket, ja; Strategic insights; Rosenberg fund; Maoist revolution?",
+   "lead_source": "editorial",
+   "authors": [
+    "Stephanie David",
+    "David Douglass",
+    "Jon Hochschartner",
+    "Tam Dean Burn",
+    "Frank Kavanagh",
+    "Stuart Leigh",
+    "Maciej Zurowski",
+    "Gaby Rubin",
+    "K Sean"
+   ],
+   "sections": {},
+   "categories": {
+    "letters": "Letters"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1603/vote-for-palestine/": {
+   "url": "https://weeklyworker.co.uk/worker/1603/vote-for-palestine/",
+   "title": "Vote for Palestine",
+   "date": "2026-10-01",
+   "lead": "Elections always involve difficult tactical calculations. We favour voting and active participation over sitting on the sidelines in the name of purity. Zack Polanski has supported the pro-Palestine protests and now calls himself an ‘anti-Zionist’. On October 8 that should count. Carla Roberts weighs the pros and cons",
+   "lead_source": "editorial",
+   "authors": [
+    "Carla Roberts"
+   ],
+   "sections": {
+    "democracy-state": "Democracy & State"
+   },
+   "categories": {
+    "war-and-peace": "War and peace"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1603/publish-the-report-in-full/": {
+   "url": "https://weeklyworker.co.uk/worker/1603/publish-the-report-in-full/",
+   "title": "Publish the report in full",
+   "date": "2026-10-01",
+   "lead": "In what could be the stirrings of climate socialism the JIC security chiefs are warning of apocalyptic dangers, writes Eddie Ford. We demand complete openness on such matters. The public need to know what the government does not want the public to know",
+   "lead_source": "editorial",
+   "authors": [
+    "Eddie Ford"
+   ],
+   "sections": {
+    "society-culture": "Society & Culture"
+   },
+   "categories": {
+    "ecology": "Ecology"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1603/threats-walkouts-and-secret-talks/": {
+   "url": "https://weeklyworker.co.uk/worker/1603/threats-walkouts-and-secret-talks/",
+   "title": "Threats, walkouts and secret talks",
+   "date": "2026-10-01",
+   "lead": "Trump set the tone. From the podium of an organisation supposedly founded to prevent war between states, he mused about the “annihilation” of Iran. Yassamine Mather looks at the theatre that is the UN general assembly",
+   "lead_source": "editorial",
+   "authors": [
+    "Yassamine Mather"
+   ],
+   "sections": {
+    "imperialism-war": "Imperialism & War"
+   },
+   "categories": {
+    "united-states": "United States",
+    "middle-east": "Middle East"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1603/cockroaches-dent-modis-veneer/": {
+   "url": "https://weeklyworker.co.uk/worker/1603/cockroaches-dent-modis-veneer/",
+   "title": "Cockroaches dent Modi’s veneer",
+   "date": "2026-10-01",
+   "lead": "A single tweet turned into a mass movement that removed India’s education minister and shook the BJP regime to its foundations. But where now? David Lockwood looks beyond streets, strikes and protests",
+   "lead_source": "editorial",
+   "authors": [
+    "David Lockwood"
+   ],
+   "sections": {
+    "society-culture": "Society & Culture"
+   },
+   "categories": {
+    "global-left": "Global left"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1603/in-their-thousands-insects/": {
+   "url": "https://weeklyworker.co.uk/worker/1603/in-their-thousands-insects/",
+   "title": "In their thousands, insects",
+   "date": "2026-10-01",
+   "lead": "Blood sucking flies, mosquitoes, ticks, fleas and other bugs are spreading diseases once confined to the tropics and subtropics. James Linney says the blame lies squarely with climate change and a system blinded by production for the sake of production",
+   "lead_source": "editorial",
+   "authors": [
+    "James Linney"
+   ],
+   "sections": {
+    "society-culture": "Society & Culture"
+   },
+   "categories": {
+    "ecology": "Ecology"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1603/hacking-in-a-fragile-world/": {
+   "url": "https://weeklyworker.co.uk/worker/1603/hacking-in-a-fragile-world/",
+   "title": "Hacking in a fragile world",
+   "date": "2026-10-01",
+   "lead": "As the FBI has found to its cost, from state actors to trivial script-kiddies, hackers are on the attack. The networked world is more vulnerable than ever. But why? asks Paul Demarty",
+   "lead_source": "editorial",
+   "authors": [
+    "Paul Demarty"
+   ],
+   "sections": {
+    "society-culture": "Society & Culture"
+   },
+   "categories": {
+    "united-states": "United States"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1603/guilty-on-all-charges/": {
+   "url": "https://weeklyworker.co.uk/worker/1603/guilty-on-all-charges/",
+   "title": "Guilty on all charges",
+   "date": "2026-10-01",
+   "lead": "Man City systematically inflated revenues and reduced costs to hide the owner spending some £830 million to buy success on the field. What does this say about top-flight football? Carl Collins gives some compelling answers",
+   "lead_source": "editorial",
+   "authors": [
+    "Carl Collins"
+   ],
+   "sections": {
+    "society-culture": "Society & Culture"
+   },
+   "categories": {
+    "media-arts-sport": "Media, arts & sport"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1603/online-communist-forum-sunday-october-4-5pm/": {
+   "url": "https://weeklyworker.co.uk/worker/1603/online-communist-forum-sunday-october-4-5pm/",
+   "title": "Online Communist Forum, Sunday October 4 5pm",
+   "date": "2026-10-01",
+   "lead": "Re-establish Comintern? Mike Macnair responds on behalf of the CPGB’s PCC",
+   "lead_source": "excerpt",
+   "authors": [
+    "Mike Macnair"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "events": "Events"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1603/make-up-shortfall/": {
+   "url": "https://weeklyworker.co.uk/worker/1603/make-up-shortfall/",
+   "title": "Make up shortfall",
+   "date": "2026-10-01",
+   "lead": "Unfortunately, despite some excellent donations that came our way in the past week, we failed by a couple of hundred pounds to reach our monthly fighting fund target of £2,750.",
    "lead_source": "excerpt",
    "authors": [
     "Robbie Rix"
@@ -5029,6 +5478,9 @@
    "left-unity-group": {
     "party-programme": "Party & Programme"
    },
+   "global-left": {
+    "party-programme": "Party & Programme"
+   },
    "fighting-fund": {
     "cpgb-news": "CPGB News"
    },
@@ -5168,6 +5620,16 @@
     "children": {},
     "validators": {},
     "checked": "2026-11-26",
+    "in_menu": false
+   },
+   "global-left": {
+    "name": "Global left",
+    "parents": {
+     "the-left": "The left"
+    },
+    "children": {},
+    "validators": {},
+    "checked": "2026-11-27",
     "in_menu": false
    },
    "fighting-fund": {
