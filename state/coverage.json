@@ -1,5 +1,5 @@
 {
- "articles": 96,
+ "articles": 118,
  "sections": {
   "party-programme": "Party & Programme",
   "democracy-state": "Democracy & State",
@@ -9,11 +9,9 @@
   "cpgb-news": "CPGB News"
  },
  "discovered_issues": 1528,
- "complete_issues": 9,
+ "complete_issues": 11,
  "annual_indexes_checked": 33,
  "pending_issues": [
-  "https://weeklyworker.co.uk/worker/1602/",
-  "https://weeklyworker.co.uk/worker/1601/",
   "https://weeklyworker.co.uk/worker/1600/",
   "https://weeklyworker.co.uk/worker/1599/",
   "https://weeklyworker.co.uk/worker/1598/",

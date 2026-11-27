@@ -2,7 +2,7 @@
  "version": 1,
  "issues": {
   "https://weeklyworker.co.uk/worker/1611/": {
-   "checked": 1795769171,
+   "checked": 1795814785,
    "details_checked": 1795723648,
    "complete": true,
    "validators": {},
@@ -55,7 +55,7 @@
    "retry": 0
   },
   "https://weeklyworker.co.uk/worker/1610/": {
-   "checked": 1795723648,
+   "checked": 1795814785,
    "details_checked": 1795723648,
    "complete": true,
    "validators": {},
@@ -461,6 +461,112 @@
     },
     "https://weeklyworker.co.uk/worker/1603/make-up-shortfall/": {
      "signature": "cb8459525f529acb2ad7a7c0",
+     "validators": {}
+    }
+   },
+   "retry": 0
+  },
+  "https://weeklyworker.co.uk/worker/1602/": {
+   "checked": 1795814785,
+   "details_checked": 1795814785,
+   "complete": true,
+   "validators": {},
+   "items": {
+    "https://weeklyworker.co.uk/worker/1602/a-chink-of-light/": {
+     "signature": "131042a5bb0ed85e924c4ef4",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1602/letters/": {
+     "signature": "6377966ed294636471b90803",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1602/the-few-and-the-many/": {
+     "signature": "93a0d0e70b6d43b2376788ec",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1602/charles-vs-charles/": {
+     "signature": "77b26389679d7f9f31269739",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1602/re-establish-comintern/": {
+     "signature": "189bb48fcdf2313b895cb2f7",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1602/a-day-of-two-halves/": {
+     "signature": "8768448346ee8b162d7e95b3",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1602/how-did-we-get-here/": {
+     "signature": "b27c1d8069d1aaacf9246281",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1602/politics-of-apolitical-culture/": {
+     "signature": "804ba62f254ccfcc9f6b740a",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1602/ussr-a-marxist-post-mortem-internal-contradictions/": {
+     "signature": "e03f6599d8c91e8445937d22",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1602/online-communist-forum-sunday-september-27-5pm/": {
+     "signature": "0b592717a8e4a39ed872c7fb",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1602/principled-unity/": {
+     "signature": "9ddd6367f0bbc6e75e6f856e",
+     "validators": {}
+    }
+   },
+   "retry": 0
+  },
+  "https://weeklyworker.co.uk/worker/1601/": {
+   "checked": 1795814785,
+   "details_checked": 1795814785,
+   "complete": true,
+   "validators": {},
+   "items": {
+    "https://weeklyworker.co.uk/worker/1601/before-and-after-911/": {
+     "signature": "795c9cc1f8175dbb56d4dab8",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1601/letters/": {
+     "signature": "f04bc844e235865d328a829e",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1601/angel-or-mcguffin/": {
+     "signature": "cd3053227326a513f596e01b",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1601/a-demand-of-enduring-relevance/": {
+     "signature": "c2c43a216dd0fcf44eef1942",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1601/demand-the-whole-package/": {
+     "signature": "e3a479095a36964f6e20305d",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1601/coping-with-the-crisis/": {
+     "signature": "f1c064b06aab755700a1da69",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1601/when-cybercabs-kill/": {
+     "signature": "0fcd6159cac7abede1932dae",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1601/war-is-always-hell/": {
+     "signature": "bcdab40ccdeaee55beb3a008",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1601/not-all-about-profit/": {
+     "signature": "a47e637fbcb7ba3c546e0cf8",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1601/online-communist-forum-sunday-september-20-5pm/": {
+     "signature": "0321544adcda5afe538abdc4",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1601/add-to-the-tally/": {
+     "signature": "3b97a33f5d54ec03a9eed29e",
      "validators": {}
     }
    },
@@ -2025,6 +2131,373 @@
    "title": "Make up shortfall",
    "date": "2026-10-01",
    "lead": "Unfortunately, despite some excellent donations that came our way in the past week, we failed by a couple of hundred pounds to reach our monthly fighting fund target of £2,750.",
+   "lead_source": "excerpt",
+   "authors": [
+    "Robbie Rix"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "fighting-fund": "Fighting fund"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1602/a-chink-of-light/": {
+   "url": "https://weeklyworker.co.uk/worker/1602/a-chink-of-light/",
+   "title": "A chink of light",
+   "date": "2026-09-24",
+   "lead": "Politics are still going to the right - recent state elections show that in no uncertain terms. But then there is Berlin. Die Linke is now the biggest party. Should it compromise and form a red-red-green city administration? No, says Carla Roberts. Better, far better, to be a principled party of opposition",
+   "lead_source": "editorial",
+   "authors": [
+    "Carla Roberts"
+   ],
+   "sections": {
+    "democracy-state": "Democracy & State"
+   },
+   "categories": {
+    "european-left": "European left"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1602/letters/": {
+   "url": "https://weeklyworker.co.uk/worker/1602/letters/",
+   "title": "Letters",
+   "date": "2026-09-24",
+   "lead": "Debater tricks; Vote George; WPB bigotry; Dubious nats; Absurd YP; YP expulsion; More waffle; Fascist fight; Anti-Zionist ‘lie’; Anti-Zionist truth",
+   "lead_source": "editorial",
+   "authors": [
+    "Mike Macnair",
+    "David Lindsay",
+    "Spartacist League",
+    "Kieran Jeffs",
+    "Alan Story",
+    "Republic YP",
+    "Lawrence Parker",
+    "K Sean",
+    "John Davidson",
+    "Editors"
+   ],
+   "sections": {},
+   "categories": {
+    "letters": "Letters"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1602/the-few-and-the-many/": {
+   "url": "https://weeklyworker.co.uk/worker/1602/the-few-and-the-many/",
+   "title": "The few and the many",
+   "date": "2026-09-24",
+   "lead": "Mega-donations are not the only way to gain access and influence - there is also the role played by the media, think-tanks, schools, universities and charities. We need to build our own class institutions along with the necessary finances, argues Eddie Ford",
+   "lead_source": "editorial",
+   "authors": [
+    "Eddie Ford"
+   ],
+   "sections": {
+    "democracy-state": "Democracy & State"
+   },
+   "categories": {
+    "racism": "Racism"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1602/charles-vs-charles/": {
+   "url": "https://weeklyworker.co.uk/worker/1602/charles-vs-charles/",
+   "title": "Charles vs Charles",
+   "date": "2026-09-24",
+   "lead": "Today’s royal family is a load-bearing institution of the capitalist state, its fate inseparable from the continuity of that state. It will not be brought down by this or that scandal, let alone an embittered former brother-in-law bent on revenge, says Paul Demarty",
+   "lead_source": "editorial",
+   "authors": [
+    "Paul Demarty"
+   ],
+   "sections": {
+    "democracy-state": "Democracy & State"
+   },
+   "categories": {
+    "media-arts-sport": "Media, arts & sport"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1602/re-establish-comintern/": {
+   "url": "https://weeklyworker.co.uk/worker/1602/re-establish-comintern/",
+   "title": "Re-establish Comintern",
+   "date": "2026-09-24",
+   "lead": "We have been sent this call for international regroupment. What exact form a world party takes in the future is surely a matter for the future. There are, though, some immediate practical steps that can be taken and we will be outlining our thoughts and proposals in the near future",
+   "lead_source": "editorial",
+   "authors": [
+    "Edith Fischer",
+    "Elise van der Doelen"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "left-unity": "Marxist unity"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1602/a-day-of-two-halves/": {
+   "url": "https://weeklyworker.co.uk/worker/1602/a-day-of-two-halves/",
+   "title": "A day of two halves",
+   "date": "2026-09-24",
+   "lead": "Our CPGB aggregate of members, associate members and supporters had two sessions. The first concerned the Middle East and that was followed by an assessment of CU 2026. Farzad Kamangar reports",
+   "lead_source": "editorial",
+   "authors": [
+    "Farzad Kamangar"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "reports": "Reports"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1602/how-did-we-get-here/": {
+   "url": "https://weeklyworker.co.uk/worker/1602/how-did-we-get-here/",
+   "title": "How did we get here?",
+   "date": "2026-09-24",
+   "lead": "To understand the wars engulfing the Middle East today, it is not enough to begin with the February 28 combined assault on Iran by the US and Israel or even October 7 2023 and Gaza, says Yassamine Mather",
+   "lead_source": "editorial",
+   "authors": [
+    "Yassamine Mather"
+   ],
+   "sections": {
+    "imperialism-war": "Imperialism & War"
+   },
+   "categories": {
+    "middle-east": "Middle East"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1602/politics-of-apolitical-culture/": {
+   "url": "https://weeklyworker.co.uk/worker/1602/politics-of-apolitical-culture/",
+   "title": "Politics of apolitical culture",
+   "date": "2026-09-24",
+   "lead": "Saying sorry over Gaza and pleasing no-one. Behind Ed Sheeran’s unconvincing apologies there lies a complex network of commercial interests, political pressures and institutional power, writes Carl Collins",
+   "lead_source": "editorial",
+   "authors": [
+    "Carl Collins"
+   ],
+   "sections": {
+    "society-culture": "Society & Culture"
+   },
+   "categories": {
+    "media-arts-sport": "Media, arts & sport"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1602/ussr-a-marxist-post-mortem-internal-contradictions/": {
+   "url": "https://weeklyworker.co.uk/worker/1602/ussr-a-marxist-post-mortem-internal-contradictions/",
+   "title": "USSR - A Marxist post-mortem: Internal contradictions",
+   "date": "2026-09-24",
+   "lead": "Jack Conrad uses the logic of Marxism to lay bare the Soviet Union’s inner laws.",
+   "lead_source": "excerpt",
+   "authors": [
+    "Jack Conrad"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "cpgb-news": "CPGB News"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1602/online-communist-forum-sunday-september-27-5pm/": {
+   "url": "https://weeklyworker.co.uk/worker/1602/online-communist-forum-sunday-september-27-5pm/",
+   "title": "Online Communist Forum, Sunday September 27 5pm",
+   "date": "2026-09-24",
+   "lead": "Burnham meets Trump in New York: political report from the CPGB’s Provisional Central Committee and discussion",
+   "lead_source": "excerpt",
+   "authors": [
+    "Provisional Central Committee of the CPGB"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "events": "Events"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1602/principled-unity/": {
+   "url": "https://weeklyworker.co.uk/worker/1602/principled-unity/",
+   "title": "Principled unity",
+   "date": "2026-09-24",
+   "lead": "As I write, there are exactly seven days to go before the end of the month, but, despite some excellent donations over the last seven days, we still need £790 to reach our monthly £2,750 target.",
+   "lead_source": "excerpt",
+   "authors": [
+    "Robbie Rix"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "fighting-fund": "Fighting fund"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1601/before-and-after-911/": {
+   "url": "https://weeklyworker.co.uk/worker/1601/before-and-after-911/",
+   "title": "Before and after 9/11",
+   "date": "2026-09-17",
+   "lead": "Three times as many people have died from the toxic pollution caused by the September 11 2001 attack on the Twin Towers than the attack itself - but other questions remain. Carla Roberts and Alex Maxwell look back 25 years",
+   "lead_source": "editorial",
+   "authors": [
+    "Alex Maxwell",
+    "Carla Roberts"
+   ],
+   "sections": {
+    "imperialism-war": "Imperialism & War"
+   },
+   "categories": {
+    "war-and-peace": "War and peace",
+    "middle-east": "Middle East"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1601/letters/": {
+   "url": "https://weeklyworker.co.uk/worker/1601/letters/",
+   "title": "Letters",
+   "date": "2026-09-17",
+   "lead": "Digital Peronism; Fabricating views; No limits; Baffling garb; Ireland decay; Expelling Chris; Max fight; Joining lessons",
+   "lead_source": "editorial",
+   "authors": [
+    "Anton Jäger",
+    "Duncan Chapel",
+    "Ted Reese",
+    "Tam Dean Burn",
+    "John McAnulty",
+    "Republic YP",
+    "K Sean",
+    "John Smithee"
+   ],
+   "sections": {},
+   "categories": {
+    "letters": "Letters"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1601/angel-or-mcguffin/": {
+   "url": "https://weeklyworker.co.uk/worker/1601/angel-or-mcguffin/",
+   "title": "Angel or McGuffin?",
+   "date": "2026-09-17",
+   "lead": "Jacob Coxon’s very public resignation from Anthropic has once again raised the spectre of the AI apocalypse. But which AI apocalypse? Paul Demarty weighs up the risks to humanity",
+   "lead_source": "editorial",
+   "authors": [
+    "Paul Demarty"
+   ],
+   "sections": {
+    "society-culture": "Society & Culture"
+   },
+   "categories": {
+    "technology": "Technology"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1601/a-demand-of-enduring-relevance/": {
+   "url": "https://weeklyworker.co.uk/worker/1601/a-demand-of-enduring-relevance/",
+   "title": "A demand of enduring relevance",
+   "date": "2026-09-17",
+   "lead": "With the world seemingly headed towards another generalised war, Marcus Strom argues that a popular militia and democratic self-defence is the best option for workers in Australia. Not Aukus and nuclear-powered subs",
+   "lead_source": "editorial",
+   "authors": [
+    "Marcus Strom"
+   ],
+   "sections": {
+    "democracy-state": "Democracy & State"
+   },
+   "categories": {
+    "war-and-peace": "War and peace"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1601/demand-the-whole-package/": {
+   "url": "https://weeklyworker.co.uk/worker/1601/demand-the-whole-package/",
+   "title": "Demand the whole package",
+   "date": "2026-09-17",
+   "lead": "Ed Miliband has given an inch. Even though it is a token, we should be encouraged and take renewed strength. Yassamine Mather calls for full sanctions, boycotts and strikes",
+   "lead_source": "editorial",
+   "authors": [
+    "Yassamine Mather"
+   ],
+   "sections": {
+    "democracy-state": "Democracy & State"
+   },
+   "categories": {
+    "middle-east": "Middle East"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1601/coping-with-the-crisis/": {
+   "url": "https://weeklyworker.co.uk/worker/1601/coping-with-the-crisis/",
+   "title": "Coping with the crisis",
+   "date": "2026-09-17",
+   "lead": "Deadly heatwaves, devastating wildfires and terrible floods - and El Niño has not even reached its peak. Communists say we need extreme measures if we are to avoid climate catastrophe, writes Eddie Ford",
+   "lead_source": "editorial",
+   "authors": [
+    "Eddie Ford"
+   ],
+   "sections": {
+    "society-culture": "Society & Culture"
+   },
+   "categories": {
+    "ecology": "Ecology"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1601/when-cybercabs-kill/": {
+   "url": "https://weeklyworker.co.uk/worker/1601/when-cybercabs-kill/",
+   "title": "When cybercabs kill",
+   "date": "2026-09-17",
+   "lead": "Pilot tests are already ongoing and commercially available, fully autonomous vehicles are expected on UK roads by the second half of 2027. But what happens when there is a crash, when someone dies? Legal rules will protect the capitalists, suggests Mike Macnair",
+   "lead_source": "editorial",
+   "authors": [
+    "Mike Macnair"
+   ],
+   "sections": {
+    "society-culture": "Society & Culture"
+   },
+   "categories": {
+    "technology": "Technology"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1601/war-is-always-hell/": {
+   "url": "https://weeklyworker.co.uk/worker/1601/war-is-always-hell/",
+   "title": "War is always hell",
+   "date": "2026-09-17",
+   "lead": "Mike Belbin reviews Christopher Nolan (writer and director) The Odyssey 2026, general release",
+   "lead_source": "editorial",
+   "authors": [
+    "Mike Belbin"
+   ],
+   "sections": {
+    "society-culture": "Society & Culture"
+   },
+   "categories": {
+    "media-arts-sport": "Media, arts & sport"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1601/not-all-about-profit/": {
+   "url": "https://weeklyworker.co.uk/worker/1601/not-all-about-profit/",
+   "title": "Not all about profit",
+   "date": "2026-09-17",
+   "lead": "Football attracts millions of devoted followers. Yet, when it comes to the bottom line, many clubs show regular losses. Despite that, narrow-minded left commentators regularly complain that money and the pursuit of profit is ruining the beautiful game. It is more complex than that, writes Carl Collins",
+   "lead_source": "editorial",
+   "authors": [
+    "Carl Collins"
+   ],
+   "sections": {
+    "society-culture": "Society & Culture"
+   },
+   "categories": {
+    "media-arts-sport": "Media, arts & sport"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1601/online-communist-forum-sunday-september-20-5pm/": {
+   "url": "https://weeklyworker.co.uk/worker/1601/online-communist-forum-sunday-september-20-5pm/",
+   "title": "Online Communist Forum. Sunday September 20 5pm",
+   "date": "2026-09-17",
+   "lead": "Mega-rich donors buying influence - whatever next? Political report from the CPGB’s Provisional Central Committee and discussion",
+   "lead_source": "excerpt",
+   "authors": [
+    "Provisional Central Committee of the CPGB"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "events": "Events"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1601/add-to-the-tally/": {
+   "url": "https://weeklyworker.co.uk/worker/1601/add-to-the-tally/",
+   "title": "Add to the tally",
+   "date": "2026-09-17",
+   "lead": "Thanks very much to all the comrades who contributed to the Weekly Worker fighting fund over the last seven days. Topping the lot was comrade LM, with her fantastic £100, followed by PB with her brilliant £80 and TW with her excellent £75. Yes, that’s right - it’s the women who…",
    "lead_source": "excerpt",
    "authors": [
     "Robbie Rix"
