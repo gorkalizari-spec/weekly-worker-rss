@@ -2,7 +2,7 @@
  "version": 1,
  "issues": {
   "https://weeklyworker.co.uk/worker/1611/": {
-   "checked": 1795814785,
+   "checked": 1795852807,
    "details_checked": 1795723648,
    "complete": true,
    "validators": {},
@@ -112,7 +112,7 @@
    "retry": 0
   },
   "https://weeklyworker.co.uk/worker/1609/": {
-   "checked": 1795723648,
+   "checked": 1795852807,
    "details_checked": 1795723648,
    "complete": true,
    "validators": {},
@@ -567,6 +567,104 @@
     },
     "https://weeklyworker.co.uk/worker/1601/add-to-the-tally/": {
      "signature": "3b97a33f5d54ec03a9eed29e",
+     "validators": {}
+    }
+   },
+   "retry": 0
+  },
+  "https://weeklyworker.co.uk/worker/1600/": {
+   "checked": 1795852807,
+   "details_checked": 1795852807,
+   "complete": true,
+   "validators": {},
+   "items": {
+    "https://weeklyworker.co.uk/worker/1600/notes-on-the-war/": {
+     "signature": "fce1af28b486c7236db50f01",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1600/letters/": {
+     "signature": "3739226c54944c6fb911bea7",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1600/politics-of-the-firewall/": {
+     "signature": "ded7d88515cfedac2898cb51",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1600/tribune-of-the-populists/": {
+     "signature": "b0559270982c22f3ecfd5746",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1600/racing-towards-general-intelligence/": {
+     "signature": "300517c63655aee47bab1838",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1600/will-there-be-a-crisis/": {
+     "signature": "7ef3155093514ac90b6988b6",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1600/palestine-picket-line/": {
+     "signature": "cf1df832a863677fce97c77f",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1600/money-talks-to-money/": {
+     "signature": "ed60d0ae40b4eb02048b376b",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1600/online-communist-forum-sunday-september-13-5pm/": {
+     "signature": "a9dd4fb651176b92ede89164",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1600/up-the-rate/": {
+     "signature": "4c4d249b0474262bfaa2a7bd",
+     "validators": {}
+    }
+   },
+   "retry": 0
+  },
+  "https://weeklyworker.co.uk/worker/1599/": {
+   "checked": 1795852807,
+   "details_checked": 1795852807,
+   "complete": true,
+   "validators": {},
+   "items": {
+    "https://weeklyworker.co.uk/worker/1599/rise-of-the-robots/": {
+     "signature": "ff39d1e87dfd7fbbb99ae7d9",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1599/letters/": {
+     "signature": "577f81ca5bcb57e9cc17dbee",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1599/taking-unity-off-the-table/": {
+     "signature": "2ddc0ee070c00368fc04987a",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1599/going-through-the-left/": {
+     "signature": "a58b960eb51b30c7080d9a07",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1599/an-honest-and-open-culture/": {
+     "signature": "f8623868ea4f503fbeff4e9b",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1599/standing-for-open-debate/": {
+     "signature": "180dca6d6ea95923b46b2a15",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1599/abundance-for-all/": {
+     "signature": "95616b032e1a172415a221ca",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1599/beyond-the-epstein-class/": {
+     "signature": "090507fa410d519882ffa6ad",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1599/online-communist-forum-sunday-september-6-5pm/": {
+     "signature": "c2bbe5f15ae55f01e67c1c18",
+     "validators": {}
+    },
+    "https://weeklyworker.co.uk/worker/1599/shortfall/": {
+     "signature": "ccd73b52922c37c6ce28452b",
      "validators": {}
     }
    },
@@ -2498,6 +2596,336 @@
    "title": "Add to the tally",
    "date": "2026-09-17",
    "lead": "Thanks very much to all the comrades who contributed to the Weekly Worker fighting fund over the last seven days. Topping the lot was comrade LM, with her fantastic £100, followed by PB with her brilliant £80 and TW with her excellent £75. Yes, that’s right - it’s the women who…",
+   "lead_source": "excerpt",
+   "authors": [
+    "Robbie Rix"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "fighting-fund": "Fighting fund"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1600/notes-on-the-war/": {
+   "url": "https://weeklyworker.co.uk/worker/1600/notes-on-the-war/",
+   "title": "Notes on the war",
+   "date": "2026-09-10",
+   "lead": "Trump’s second peace plan has had the same success as his first. Jack Conrad warns that not only is the war set to continue, things will probably get ever more painful. But what about the possibility of revolution?",
+   "lead_source": "editorial",
+   "authors": [
+    "Jack Conrad"
+   ],
+   "sections": {
+    "imperialism-war": "Imperialism & War"
+   },
+   "categories": {
+    "united-states": "United States"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1600/letters/": {
+   "url": "https://weeklyworker.co.uk/worker/1600/letters/",
+   "title": "Letters",
+   "date": "2026-09-10",
+   "lead": "Our abundance; Keep digging; YP Scotland; Leaving YP; Statement; Fool’s errand; All-blacks; Right threat",
+   "lead_source": "editorial",
+   "authors": [
+    "Matthew B",
+    "David Douglass",
+    "Tam Dean Burn",
+    "Audrey White, Eric Barnes, Graham Bash, Ian Hodson, Ken Loach, Mike Forster, Naomi Wimborne-Idrissi",
+    "Jim Nelson",
+    "Lawrence Parker",
+    "Jack Miller",
+    "John Smithee"
+   ],
+   "sections": {},
+   "categories": {
+    "letters": "Letters"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1600/politics-of-the-firewall/": {
+   "url": "https://weeklyworker.co.uk/worker/1600/politics-of-the-firewall/",
+   "title": "Politics of the firewall",
+   "date": "2026-09-10",
+   "lead": "Has fascism returned with the AfD? No, but we do have a problem with a left that is desperately trying to help save ‘German democracy’ by going into a cross-class coalition government, says Carla Roberts",
+   "lead_source": "editorial",
+   "authors": [
+    "Carla Roberts"
+   ],
+   "sections": {
+    "democracy-state": "Democracy & State"
+   },
+   "categories": {
+    "european-left": "European left"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1600/tribune-of-the-populists/": {
+   "url": "https://weeklyworker.co.uk/worker/1600/tribune-of-the-populists/",
+   "title": "Tribune of the populists",
+   "date": "2026-09-10",
+   "lead": "In its latest relaunch, Tribune takes a further step from its historic Labourism to engagement with populism in all its ghastly forms and manifestations. Paul Demarty assesses the living dead",
+   "lead_source": "editorial",
+   "authors": [
+    "Paul Demarty"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "class-and-consciousness": "Class and consciousness"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1600/racing-towards-general-intelligence/": {
+   "url": "https://weeklyworker.co.uk/worker/1600/racing-towards-general-intelligence/",
+   "title": "Racing towards general intelligence",
+   "date": "2026-09-10",
+   "lead": "We have already had the Hugging Face incident. Whether AI is used to expand human capabilities or to wipe us out will be decided by politics, ultimately by the politics of class against class, says Yassamine Mather",
+   "lead_source": "editorial",
+   "authors": [
+    "Yassamine Mather"
+   ],
+   "sections": {
+    "society-culture": "Society & Culture"
+   },
+   "categories": {
+    "technology": "Technology"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1600/will-there-be-a-crisis/": {
+   "url": "https://weeklyworker.co.uk/worker/1600/will-there-be-a-crisis/",
+   "title": "Will there be a crisis?",
+   "date": "2026-09-10",
+   "lead": "There is much worried talk of rising inflation, increased government borrowing and the necessity of pleasing the bond markets. Michael Roberts investigates",
+   "lead_source": "editorial",
+   "authors": [
+    "Michael Roberts"
+   ],
+   "sections": {
+    "capitalism-crisis": "Capitalism & Crisis"
+   },
+   "categories": {
+    "capitalism-crisis": "Capitalism & Crisis"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1600/palestine-picket-line/": {
+   "url": "https://weeklyworker.co.uk/worker/1600/palestine-picket-line/",
+   "title": "Palestine picket line",
+   "date": "2026-09-10",
+   "lead": "There are more and more government sanctions from above and economic, cultural and sporting boycotts from below. Carl Collins shows that this phenomenon has a long and highly contested history",
+   "lead_source": "editorial",
+   "authors": [
+    "Carl Collins"
+   ],
+   "sections": {
+    "imperialism-war": "Imperialism & War"
+   },
+   "categories": {
+    "war-and-peace": "War and peace"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1600/money-talks-to-money/": {
+   "url": "https://weeklyworker.co.uk/worker/1600/money-talks-to-money/",
+   "title": "Money talks to money",
+   "date": "2026-09-10",
+   "lead": "Despite the financial scandals, pushback from the liberal establishment and reduced polling numbers, in Birmingham Nigel Farage reached out to the capitalist class, writes Eddie Ford",
+   "lead_source": "editorial",
+   "authors": [
+    "Eddie Ford"
+   ],
+   "sections": {
+    "democracy-state": "Democracy & State"
+   },
+   "categories": {
+    "racism": "Racism"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1600/online-communist-forum-sunday-september-13-5pm/": {
+   "url": "https://weeklyworker.co.uk/worker/1600/online-communist-forum-sunday-september-13-5pm/",
+   "title": "Online Communist Forum, Sunday September 13 5pm",
+   "date": "2026-09-10",
+   "lead": "Sanctioning illegal Israeli settlements: political report from the CPGB’s Provisional Central Committee and discussion",
+   "lead_source": "excerpt",
+   "authors": [
+    "Provisional Central Committee of the CPGB"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "events": "Events"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1600/up-the-rate/": {
+   "url": "https://weeklyworker.co.uk/worker/1600/up-the-rate/",
+   "title": "Up the rate",
+   "date": "2026-09-10",
+   "lead": "After the first nine days of September, we’re a little bit behind the going rate, when it comes to raising this month’s £2,750 fighting fund target. In contrast to the £296 that came our way in the first two days, we received only £366 over the next seven, taking the running…",
+   "lead_source": "excerpt",
+   "authors": [
+    "Robbie Rix"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "fighting-fund": "Fighting fund"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1599/rise-of-the-robots/": {
+   "url": "https://weeklyworker.co.uk/worker/1599/rise-of-the-robots/",
+   "title": "Rise of the robots",
+   "date": "2026-09-03",
+   "lead": "Headlines have been about outrunning Usain Bolt, playing football and learning to kickbox in just a couple of hours. But, explains Yassamine Mather, the development of humanoid and other such robots is about far more than entertainment and mere spectacle",
+   "lead_source": "editorial",
+   "authors": [
+    "Yassamine Mather"
+   ],
+   "sections": {
+    "society-culture": "Society & Culture"
+   },
+   "categories": {
+    "war-and-peace": "War and peace"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1599/letters/": {
+   "url": "https://weeklyworker.co.uk/worker/1599/letters/",
+   "title": "Letters",
+   "date": "2026-09-03",
+   "lead": "Grow your own; Lock ’em up; DSA ‘communists’; Rojava closure; Totalitarian threat; Kill, kill, kill; Fridaisation",
+   "lead_source": "editorial",
+   "authors": [
+    "Ken Syme",
+    "Jon Hochschartner",
+    "Jim Nelson",
+    "Maciej Zurowski",
+    "Tony Clark",
+    "Gaby Rubin",
+    "Paul Cooper"
+   ],
+   "sections": {},
+   "categories": {
+    "letters": "Letters"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1599/taking-unity-off-the-table/": {
+   "url": "https://weeklyworker.co.uk/worker/1599/taking-unity-off-the-table/",
+   "title": "Taking unity off the table",
+   "date": "2026-09-03",
+   "lead": "Andy Burnham has made it abundantly clear, whatever the Irish people want there will be no border poll. For those, and not only in Sinn Féin, who have fostered illusions in the Good Friday Agreement, this is a strategic body blow. For communists it comes as no surprise, writes Carl Collins",
+   "lead_source": "editorial",
+   "authors": [
+    "Carl Collins"
+   ],
+   "sections": {
+    "democracy-state": "Democracy & State"
+   },
+   "categories": {
+    "europe": "Europe"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1599/going-through-the-left/": {
+   "url": "https://weeklyworker.co.uk/worker/1599/going-through-the-left/",
+   "title": "Going through the left",
+   "date": "2026-09-03",
+   "lead": "The DSA has grown significantly since 2016 and has recently won a string of congressional nominations. Communists have won increasing influence too. Matthew Campbell-Strupp discussed the perspectives of building a mass Communist Party in America at the opening session of CU 2026",
+   "lead_source": "editorial",
+   "authors": [
+    "Matthew Strupp"
+   ],
+   "sections": {
+    "imperialism-war": "Imperialism & War"
+   },
+   "categories": {
+    "us-left": "US left"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1599/an-honest-and-open-culture/": {
+   "url": "https://weeklyworker.co.uk/worker/1599/an-honest-and-open-culture/",
+   "title": "An honest and open culture",
+   "date": "2026-09-03",
+   "lead": "People Before Profit has enjoyed modest success as a loose alliance. But if we really want revolution and socialism it must, argues Anne McShane, aspire to become a programmatically rooted mass party of the working class",
+   "lead_source": "editorial",
+   "authors": [
+    "Anne McShane"
+   ],
+   "sections": {
+    "democracy-state": "Democracy & State"
+   },
+   "categories": {
+    "european-left": "European left"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1599/standing-for-open-debate/": {
+   "url": "https://weeklyworker.co.uk/worker/1599/standing-for-open-debate/",
+   "title": "Standing for open debate",
+   "date": "2026-09-03",
+   "lead": "‘No-platforming’ and speech controls are rooted in the cross-class politics of popular frontism and only serve to strengthen the right, argues Mike Macnair. This is an edited version of his talk at CU 2026",
+   "lead_source": "editorial",
+   "authors": [
+    "Mike Macnair"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "democratic-centralism": "Democratic centralism"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1599/abundance-for-all/": {
+   "url": "https://weeklyworker.co.uk/worker/1599/abundance-for-all/",
+   "title": "Abundance for all",
+   "date": "2026-09-03",
+   "lead": "How can climate catastrophe be stopped? Capitalism, almost by definition, depends on endless accumulation and the production of more and more stuff. But, at CU 2026, Ted Reese argued that degrowth is not the answer",
+   "lead_source": "editorial",
+   "authors": [
+    "Ted Reese"
+   ],
+   "sections": {
+    "capitalism-crisis": "Capitalism & Crisis"
+   },
+   "categories": {
+    "ecology": "Ecology",
+    "technology": "Technology"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1599/beyond-the-epstein-class/": {
+   "url": "https://weeklyworker.co.uk/worker/1599/beyond-the-epstein-class/",
+   "title": "Beyond the ‘Epstein class’",
+   "date": "2026-09-03",
+   "lead": "We need the truth. We need science. Marxists should abjure conspiracy theories about all-powerful cabals, no matter how popular they are on the internet, argues Paul Demarty",
+   "lead_source": "editorial",
+   "authors": [
+    "Paul Demarty"
+   ],
+   "sections": {
+    "imperialism-war": "Imperialism & War"
+   },
+   "categories": {
+    "class-and-consciousness": "Class and consciousness"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1599/online-communist-forum-sunday-september-6-5pm/": {
+   "url": "https://weeklyworker.co.uk/worker/1599/online-communist-forum-sunday-september-6-5pm/",
+   "title": "Online Communist Forum, Sunday September 6 5pm",
+   "date": "2026-09-03",
+   "lead": "War or welfare? Political report from the CPGB’s Provisional Central Committee and discussion",
+   "lead_source": "excerpt",
+   "authors": [
+    "Provisional Central Committee of the CPGB"
+   ],
+   "sections": {
+    "party-programme": "Party & Programme"
+   },
+   "categories": {
+    "events": "Events"
+   }
+  },
+  "https://weeklyworker.co.uk/worker/1599/shortfall/": {
+   "url": "https://weeklyworker.co.uk/worker/1599/shortfall/",
+   "title": "Shortfall",
+   "date": "2026-09-03",
+   "lead": "Some disappointing news to start with: we fell rather short of the Weekly Worker’s monthly fighting fund target of £2,750 in August.",
    "lead_source": "excerpt",
    "authors": [
     "Robbie Rix"
